@@ -32,7 +32,7 @@ multiqr-hackathon/
 1. **Clone the repository:**
 
    ```bash
-   git clone <repo_url>
+   git clone https://github.com/Naveen-M-77/multiqr-hackathon.git
    cd multiqr-hackathon
    ```
 
